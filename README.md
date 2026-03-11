@@ -1,15 +1,8 @@
-<div align="center">
 
-<!-- Dynamic typing header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Dharun+%F0%9F%91%8B;BTech+CSE+%40+LPU+%2729;Builder+%7C+Self-Hoster+%7C+Maker;If+I+need+a+tool%2C+I+build+it.)](https://git.io/typing-svg)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0057FF&height=100&section=header&text=&animation=fadeIn" width="100%"/>
-
-</div>
 
 ---
 
-### 🧠 About Me
+### About Me
 
 ```typescript
 const dharun = {
@@ -25,43 +18,6 @@ const dharun = {
 
 ---
 
-### 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
----
-
-### 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [🗂️ CS Archive](https://github.com/dharunashokkumar/cs-archive) | Comprehensive CS knowledge hub — 20+ categories, retro terminal UI | `HTML` `CSS` `JS` |
-| [🤝 K25KM-Connect](https://github.com/dharunashokkumar/K25KM-Connect) | Team collaboration platform for modern workflows | `TypeScript` `Go` |
-| [🌐 My Portfolio](https://dharunashokkumar.com) | Personal portfolio & developer showcase | `HTML` `CSS` |
-
-</div>
-
----
 
 ### 📊 GitHub Stats
 

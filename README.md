@@ -1,22 +1,21 @@
+# dharun ashokkumar
 
+b.tech cse @ lpu · from tamil nadu
 
----
-
-### About Me
-
-```typescript
-const dharun = {
-  name: "Dharun Ashokkumar",
-  degree: "BTech CSE @ LPU '29",
-  location: "India 🇮🇳",
-  philosophy: "If I need a tool, I build it.",
-  focus: ["Self-hosted solutions", "Developer tools", "Open source"],
-  currently_building: ["K25KM-Connect", "CS Archive"],
-  portfolio: "dharunashokkumar.com",
-};
-```
+i like linux, open source, and building things.
 
 ---
+
+**currently**  
+→ building a student lab platform (react + fastapi + postgresql)  
+→ contributing to open source — uptime kuma, appwrite, pharos ai  
+→ exploring cybersecurity, iot, and home server infrastructure
+
+**tools i work with**  
+python · react · fastapi · linux · docker · postgresql · esp32 · arduino · raspberry pi
+
+**links**  
+[portfolio](https://dharunashokkumar.com) · [wikipedia](https://en.wikipedia.org/wiki/User:Dharuna4578)
 
 
 ### 📫 Connect With Me

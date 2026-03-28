@@ -3,11 +3,12 @@
 b.tech cse @ lpu · from tamil nadu
 
 i like linux, open source, and building things.
+i promote opensource
 
 ---
 
 **currently**  
-→ building a student lab platform (react + fastapi + postgresql)  
+→ building a student lab platform (react + fastapi + mongodb + redis + rabbitmq)  
 → contributing to open source — uptime kuma, appwrite, pharos ai  
 → exploring cybersecurity, iot, and home server infrastructure
 
@@ -15,7 +16,7 @@ i like linux, open source, and building things.
 python · react · fastapi · linux · docker · postgresql · esp32 · arduino · raspberry pi
 
 **links**  
-[portfolio](https://dharunashokkumar.com) · [wikipedia](https://en.wikipedia.org/wiki/User:Dharuna4578)
+[portfolio](https://dharunashokkumar.com)
 
 
 ### 📫 Connect With Me

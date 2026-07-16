@@ -25,4 +25,4 @@ python · react · fastapi · linux · docker · postgresql · mongodb · redis 
 
 #### find me
 
-[portfolio](https://dharunashokkumar.com) · [linkedin](https://linkedin.com/in/dharunashokkumar) · email on the portfolio
+[portfolio](https://dharun.dev) · [linkedin](https://linkedin.com/in/dharunashokkumar) · email on the portfolio

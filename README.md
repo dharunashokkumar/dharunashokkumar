@@ -22,7 +22,7 @@ $ whoami
 
 - 🧪 building a **student lab platform** — react + fastapi + mongodb + redis + rabbitmq
 - 🌱 contributing to open source — [twenty](https://github.com/twentyhq/twenty) · [uptime kuma](https://github.com/louislam/uptime-kuma) · [appwrite](https://github.com/appwrite/appwrite) · pharos ai · [claraverse](https://github.com/claraverse-space/ClaraVerse)
-- 🔐 exploring **cybersecurity, iot, and home server infrastructure**
+- 🔐 exploring **cybersecurity, homelab / self-hosting, and infrastructure automation**
 - ✈️ heading to **open source summit india 2026** in mumbai (june 16–17) — say hi if you're going
 
 ### `~/shipped`
@@ -34,18 +34,20 @@ $ whoami
 
 ### `~/toolbox`
 
-![python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white)
-![react](https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black)
-![fastapi](https://img.shields.io/badge/fastapi-009688?style=flat-square&logo=fastapi&logoColor=white)
+![proxmox](https://img.shields.io/badge/proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
 ![linux](https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![docker](https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![terraform](https://img.shields.io/badge/terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![ansible](https://img.shields.io/badge/ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![nginx](https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![traefik](https://img.shields.io/badge/traefik-24A1C1?style=flat-square&logo=traefikproxy&logoColor=white)
+![prometheus](https://img.shields.io/badge/prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![grafana](https://img.shields.io/badge/grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![postgresql](https://img.shields.io/badge/postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![mongodb](https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![redis](https://img.shields.io/badge/redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![rabbitmq](https://img.shields.io/badge/rabbitmq-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![esp32](https://img.shields.io/badge/esp32-000000?style=flat-square&logo=espressif&logoColor=white)
-![arduino](https://img.shields.io/badge/arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![raspberry pi](https://img.shields.io/badge/raspberry%20pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![git](https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white)
+![bash](https://img.shields.io/badge/bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 ### `~/stats`
 
